@@ -1,0 +1,43 @@
+Origin: OpenBosniana-LIB
+Label: OpenBosniana-LIB Repository
+Suite: 2024
+Codename: OpenBosniana-LIB
+Version: 2024
+Architectures: i386 amd64 source arm64
+Components: main contrib non-free non-free-firmware udeb
+UDebComponents: main
+Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
+SignWith: yes
+
+Origin: OpenBosniana-LIB-backports
+Label: OpenBosniana-LIB Repository
+Suite: 2024
+Codename: OpenBosniana-LIB-backports
+Version: 2024
+Architectures: i386 amd64 arm64
+Components: main contrib non-free non-free-firmware udeb
+UDebComponents: main
+Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
+SignWith: yes
+
+Origin: OpenBosniana-LIB-updates
+Label: OpenBosniana-LIB Repository
+Suite: 2024
+Codename: OpenBosniana-LIB-updates
+Version: 2024
+Architectures: i386 amd64 arm64
+Components: main contrib non-free non-free-firmware udeb
+UDebComponents: main
+Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
+SignWith: yes
+
+Origin: OpenBosniana-LIB-security
+Label: OpenBosniana-LIB Repository
+Suite: 2024
+Codename: OpenBosniana-LIB-security
+Version: 2024
+Architectures: i386 amd64 arm64
+Components: main contrib non-free non-free-firmware udeb
+UDebComponents: main
+Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
+SignWith: yes
