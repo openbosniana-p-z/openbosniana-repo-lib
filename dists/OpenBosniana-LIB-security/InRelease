@@ -6,7 +6,7 @@ Label: OpenBosniana-LIB Repository
 Suite: 2024
 Codename: OpenBosniana-LIB-security
 Version: 2024
-Date: Sat, 08 Jun 2024 07:00:49 UTC
+Date: Sat, 08 Jun 2024 07:37:59 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  38c9ad6fe289cd683ef69984a3de5c4582a8d005e7e2ff2048c846efe4f42d70 202 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZkAaIACgkQ5Vfn9vbt
-T6oIlhAAgqyXpKIHsxhWvL4W/8sYFQONmz/YHvwYpphFKEzx9iKknGCb9LVKid4i
-F3azvqt0i8kZ4u84SvH1XVwA4FsM13ZxIWjfN06zgSalkXuryMLhV+YhjEE+mTnO
-nlUkyrp9sgPU7yaCdpjKt9fgdZaWYHSdj+hQBQzGFWeA2lzZ2x6OQVzsw6CGi5bx
-qAn/L015nqy6DYys/GmYn35DQF/iTKXTPP0xPauEzD/jQhQgXN/B5T9oGkLZEGnU
-/YdY/QtJl3OLB3Ufc1OzbNJv4hDxoqptAvXP7zF6hWpiqh0jJkROieHo5H56RuNJ
-Kou0+648Zy46i2zuQyb+JchSAcB/nofKq2oth82EUH/lQI75M/iWuAD/CdcFXHIv
-5qUrlzGQnjI89fz6SxH3fz56uYmHexODJhpnvVRHaa/CTJ6zfF8o4XDnXoNeocuA
-iU6FCdb+Ddyqoqg3G0gAQFiNBnw7yM2s27gh6AcBPrxa4yoeZu+S1RjiTl2D9TNv
-7O7Y4FjIdpauQ7bgMYc1BUoEWxEKXb2uScQ/39+CGRzCUELW7hEqOIuiBuPbd/FW
-wd53/OtxxK4OpnMIUXn3jCzZMQvExHTNtpgqpNLRkZleQ6TYYnk0p/JKSiLANUL+
-hRZDBYdA6bNyQcRJlz8Bb5NLhf2Rx8Hv/tYZQ56WXHKOhnzLu2g=
-=4fj0
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZkClgACgkQ5Vfn9vbt
+T6rJ0hAAgUCGX8S/rF7IknJ4WBRnBG/D1te8jXp1N03nUpf3Share7+IRU1iOS2f
+Yx2SVDaw92iz+sfPZBmYtxjnj4//hmjegdlBDVth/qifJJJvkO9lKmG87OQudSkK
+yiia8etmG8mzl5Xz62QHcFmm4KNz9Mnz6uw2yHETj+yhMcqB260z0yQ6CfUq4x/g
+Vww3IlyC1DmntRKk3l4nZaxgUccpBBuAWWNfNdUHKBuaMrMiA5ocD/WTzwaORrmU
+QFvEejLodqUn7Ixts/MZgdR4dBD0gGNPOTFnhSpaDj2sA6FJLkNfEBaRJbt+FnrR
+FXrh+5kdfTVeig4vILHyQOXFlRKXAn7nOMSyqo57k3DW59LUEG3HXzySqIAUo6T7
+4XzFTYIKQsKJ+vPaSi6YSntxNVFzyn+Y0sylokK5J42muxk3zycofPdBNzAydroO
+PfJ9X8oDMhs+oXh0lw0C1YnRuKokoztEqR0RgSxKpHtzE5FUkx8/mtfjzosIV9cL
+Umj9YeIRFJVgMvxXnE+RmKkMDRm0g6Ia8DWgsE+eTETBl2WyujD6iXQKM/hJZjnn
+VVQJWbunW8hYK7685DRh2TCKAWsXqhq+OfDM6if3l0aBOQqItWlvMhCnz3TACsWR
+Ag+Hx+kyRr7USpP3uFStAeaI5uuYwreuIoagVgGPWjjiFpVwRP8=
+=YQ4p
 -----END PGP SIGNATURE-----
