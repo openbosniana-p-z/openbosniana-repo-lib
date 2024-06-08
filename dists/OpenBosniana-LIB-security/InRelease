@@ -6,7 +6,7 @@ Label: OpenBosniana-LIB Repository
 Suite: 2024
 Codename: OpenBosniana-LIB-security
 Version: 2024
-Date: Sat, 08 Jun 2024 07:37:59 UTC
+Date: Sat, 08 Jun 2024 08:00:23 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  38c9ad6fe289cd683ef69984a3de5c4582a8d005e7e2ff2048c846efe4f42d70 202 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZkClgACgkQ5Vfn9vbt
-T6rJ0hAAgUCGX8S/rF7IknJ4WBRnBG/D1te8jXp1N03nUpf3Share7+IRU1iOS2f
-Yx2SVDaw92iz+sfPZBmYtxjnj4//hmjegdlBDVth/qifJJJvkO9lKmG87OQudSkK
-yiia8etmG8mzl5Xz62QHcFmm4KNz9Mnz6uw2yHETj+yhMcqB260z0yQ6CfUq4x/g
-Vww3IlyC1DmntRKk3l4nZaxgUccpBBuAWWNfNdUHKBuaMrMiA5ocD/WTzwaORrmU
-QFvEejLodqUn7Ixts/MZgdR4dBD0gGNPOTFnhSpaDj2sA6FJLkNfEBaRJbt+FnrR
-FXrh+5kdfTVeig4vILHyQOXFlRKXAn7nOMSyqo57k3DW59LUEG3HXzySqIAUo6T7
-4XzFTYIKQsKJ+vPaSi6YSntxNVFzyn+Y0sylokK5J42muxk3zycofPdBNzAydroO
-PfJ9X8oDMhs+oXh0lw0C1YnRuKokoztEqR0RgSxKpHtzE5FUkx8/mtfjzosIV9cL
-Umj9YeIRFJVgMvxXnE+RmKkMDRm0g6Ia8DWgsE+eTETBl2WyujD6iXQKM/hJZjnn
-VVQJWbunW8hYK7685DRh2TCKAWsXqhq+OfDM6if3l0aBOQqItWlvMhCnz3TACsWR
-Ag+Hx+kyRr7USpP3uFStAeaI5uuYwreuIoagVgGPWjjiFpVwRP8=
-=YQ4p
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZkD5gACgkQ5Vfn9vbt
+T6p/vBAAhkzUbC6hDfRx8onLOudzPjHf7uxYE2sWEKkY/4j0ABq9NBfjrDMQJ4R0
+rMap9t+qkNU7OUQDp6He6FNprRfwg+6P+nGhJUvWHd/PTXPmgoqfnBgD40L7lclg
+VuzuGS6x6OoxsN1rgueRTDyTC0WoHRJ9ezXcE9xabnZUo8sEiqFqlSdZrjrcZMuF
+2zV56aSBs0h4RpFDC8XnyJLFN7KwZyZbLtCe0pbFNcQpD+qs7HXxjneUdVnV82E9
+t3R8jHatwMbX4Jw2561Gr/6mLV+COkH/beAcu8pOBUe8vAdlg2qK9wU0e42rJbFq
+o9YF90nsp5cese47pc6gFfVwvtavZz9WmpxQnAvxeCtldHHlOjW9M0cD29k0eenx
+BsOeLQkBSUKso2ySU6SYoliCnGvQwqzRbz0dB0a0sxvbBugC72k/vupWs+k4Nwdi
+wtrSI0WxHtPXiwRS5Dvy6IO8ovNSL5tC6Wqo+skdzzZRdveLPpeQC13KOP9Ct3E+
+iqxKVVeJSf8IBaBOE1CXYatVI6b/PYq/CNFqyCvuXBgYzNkrq4p9CjZqXJwbjcY7
+owI4bg1s6Dbeg67RYtOcHZsWktwUXsRhrR3gDI30i0ZYwSRDtgMgqOiPLUqNcc8w
+p1L8AHf052rrw++YnFsGzsYVJW+88FL6gubn3iWx+DpJ07kCgAU=
+=jVMZ
 -----END PGP SIGNATURE-----
