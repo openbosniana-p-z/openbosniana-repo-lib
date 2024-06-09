@@ -6,7 +6,7 @@ Label: OpenBosniana-LIB Repository
 Suite: 2024
 Codename: OpenBosniana-LIB-updates
 Version: 2024
-Date: Sat, 08 Jun 2024 08:00:23 UTC
+Date: Sun, 09 Jun 2024 16:48:16 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  04cc8382aa57ee9fbf99096802ce975153b86bd7aa8ad55e84533362b95c02db 201 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZkD5cACgkQ5Vfn9vbt
-T6pAgw//UstXzBXRhOb/sgxowapcgb9Gqp7g3EApkz46zL0Mj4fX+yAURNMOvZ+m
-o28AQsQTCYYkzYs8NPIzOcScbVC5uwZh4ZB7jgMk77yaLb1WtNfcX29olw1W5MAX
-fQiDrVt4eCaRQWRW8r7yRNxZMs5LPh5gtoe7MZP1xsoZhkjqwMVgTKXg8qxg19hM
-A0L+jHmyvh1QRiZYb+QJRLcXBWASBagVdMs6Dw2TFyyflKSm0B05oBIvNbBb1aXH
-r1+kN3FXrsuXzfGa1hSV9FhjcEoluAOZuOAf6imiUniS5hFl8aRgilytGiT0eMmQ
-icgPiGYslyrIs3NqkVs0SOH8MLiPhfjR+0COpVGNwVWNRtvBLPPuCaZ/D1cG0DVQ
-C7CTxvzOKm68KEmeLhxInuLE0Fe6jUTS4NfL9oX/OuKFwo+K14AfVn1ROWE2AU5q
-ZUAmsBqecykbGC6tQMmUIvNPGUzfDVBvTbIXzl2+mihbyqhzV2jVSFImK6/IRdtl
-PsGrFP6ji4RXKibAvjD4+Ja28QA4IjHcfIlCeqPXFRAer/tauuDb3fZPlyrkcgy6
-yyMnezN+4uiYJ30TCEjOuCy48w6CDfUiLCS1GkRv+sXkhUCIPH1SmWcexyc+p0+O
-NS/Fj5KfhKIQEsEBRmUNKRNskh0gdBWlGdeQiqReVZHBHYbQqOg=
-=NeNV
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZl3NAACgkQ5Vfn9vbt
+T6pJiA/8Dh25Q3P+XGFpi0lJnngF/+tNvrdrKQssLomxrakhkukgeF0gxXg2IYHK
+gb+MKfBTWLt+uwhxXrGwkC8AzUSz4tSNVyURxTpb0G9PXv3hFHgA6qcf6BOKeX8K
+pZYGfj7CfCNlFDm2Q/+XH27ltGW4oVvaBXafuY+MEhjazrY5FyiQ2LYsUVc0RBYS
+xLfAnGsOjcG9/+jeALmrMPvuJtwB/UM/NzeZWUAzCzC811e/UhreYlFxb/Oh1c8c
+CKc4+5r2PX7/akbDnVkAUlEnJxtfIs2ub4bp1C2xbUTdfJerFuTJJfvk83FTcTIL
+y6PSwjnwwB6qLS+Y0M1rzW0UI+Gd8n5YfSQbiSB4Ar+sR65RU5OeY3rHJiTgJlQ8
+stQMNFBaJaBKxIrGXjGv3j192t3n7PPENhErWJzeuPLga5TQTFtUhilmhkH4c3Nb
+Ft/U1euyPvQvlT3wWrb/fhhdQOXDgRc/ya3S8jrGv6Ubm6gbY+plRphS+n5T+CHb
+PaCiKDC84Lo1IY3Fe11zEEUm1KSpjA7B200Qv5wc3qF8nkg1GAsvayaaLyvFx3I4
+qNaunwV2RGmpjUqLgwARTgRprhXcG9oHQT0PbDY6Dw312olq6QH7gMV9umhIPklJ
+s+AI6p+n8S8TasOnLC/y2/aVLD24vlgvJMPhF34HucA1QppAYuQ=
+=hhQD
 -----END PGP SIGNATURE-----
