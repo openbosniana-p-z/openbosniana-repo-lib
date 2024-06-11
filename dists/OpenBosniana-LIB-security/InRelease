@@ -6,7 +6,7 @@ Label: OpenBosniana-LIB Repository
 Suite: 2024
 Codename: OpenBosniana-LIB-security
 Version: 2024
-Date: Sun, 09 Jun 2024 16:48:17 UTC
+Date: Tue, 11 Jun 2024 02:15:53 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  38c9ad6fe289cd683ef69984a3de5c4582a8d005e7e2ff2048c846efe4f42d70 202 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZl3NEACgkQ5Vfn9vbt
-T6rxog/+PYoPUS6wcZ7C7e9PegLNzBeCoWYV03Ieg04mZnvEDr05ubSUQRPEqlmN
-MvDKisI39bZO7Mr+J9BZnM8I4u1whbjYe9It6vN8TZI/MPBlR2Zft0TEOUMc+cO/
-jc7G1Y37xoN3ksTXoH2lsjWyyG9DAHjbU1AeXPdJcPZ3AaEJfBUMhE0qRWNnfgAJ
-i5kigOh3+zvabRubkztt7ABQ9eQKwp2LdHiUPm7jX4zlmB1UWbZ9ee5DB+E5M/zt
-2AM2wozv2gEmv/uUn7qOIbWktuBC9ba7bILZ+b76rKiIWNezA+5DwEiH/EpF6xxY
-chvoZLHBVF4+MBcwIwqkEmtr0GiftWM0DWQKD1oRh4gqsljI3DpRIIMtwEfWv+3o
-mhb+uwU20slA0NZywTfCDkOJotQA4C7+A4fZHlTcpzkNsY0LviayxYOoiXQikho/
-Pm4xv17/pWfOUtuWmQSPowLPSWKZXsDxTFnjjE7lb8hQj/Qpy8aF9bAdM2nSAgp/
-JmwSODhtCD9VOEMUDV5Wu9NZrwk8cs+W0i9edMbhgr/0u35QioMwo7rZ/xU5hgx8
-mcZM62toBUnIyyi1pizJnC32ASXu4YfI1nukv25Y6HSlPjVRQjONz1CArSUUwqds
-RIyxDyTeFerTb6lGgdq86uVkVLk4WPPjbEP7XerzX+Kg5wkhchU=
-=bzGN
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZns1kACgkQ5Vfn9vbt
+T6oflQ/8CXGC6BZtHcUB0Wsy8iMlTgXorZvQnI4Nxan+5YtknbsZjsQ/Onqn7KbB
+eRTMarqMeGV1WTc+NfxlY2V48CJnvPOo2pxqe6pmGBIwhOthbZrTsgLHgYDHl4Tu
+2AspDk7xzesd7OXjpZNoAzKZS+ONKOiSbw09AcY1uQ50s5uR/+PRBzjlRyIqjfWB
+jPF78d0M83SF7g+YaTnegMWN/Ky5s8kbU2omXCBughHFRwqvQ4r9X5ewJyU/mu3U
+fWCGh1VLmT67V9qAIbwI3r8srgd51Boqd5MVR7eD9DXmhFCXOP0B1oO8SazfYgJP
+osvSTChLcq/aS/N1TfmSK7iZfDbwCWAKeF4w0dxGTf1UF/poCzVbyt8euH2OwmFV
+NI/5u8vb0YRytsjWYnyff9KVWJGolbo2hitIVyTWRQvHsTJexsQNj+4vhcT7Lp75
+8v0uzo06DkViTPYLJiozBfszev/qVn9m9CcGFj1pAFg6SrfhLExfd2V2DaZ/+bY6
+9qbzLYLuRojspM7fDYuYU4pa5KkAbQzW0XU/NeeA0IG8zlnAwfBmS7bzj1sUWG1q
+R/F9kcsS+XGXplBHff6jg+1xQPGTAfTWG5Bjjb/RSH3Sa5+GKBy6o6Jg4Q8wVJWX
+ejwH+5f2XMqp2Vj6acnyL49UQ7gHBoVY5UDHQPJsR3KncZKkZCA=
+=vh0q
 -----END PGP SIGNATURE-----

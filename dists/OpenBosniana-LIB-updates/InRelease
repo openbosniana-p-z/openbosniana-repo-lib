@@ -6,7 +6,7 @@ Label: OpenBosniana-LIB Repository
 Suite: 2024
 Codename: OpenBosniana-LIB-updates
 Version: 2024
-Date: Sun, 09 Jun 2024 16:48:16 UTC
+Date: Tue, 11 Jun 2024 02:15:52 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  04cc8382aa57ee9fbf99096802ce975153b86bd7aa8ad55e84533362b95c02db 201 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZl3NAACgkQ5Vfn9vbt
-T6pJiA/8Dh25Q3P+XGFpi0lJnngF/+tNvrdrKQssLomxrakhkukgeF0gxXg2IYHK
-gb+MKfBTWLt+uwhxXrGwkC8AzUSz4tSNVyURxTpb0G9PXv3hFHgA6qcf6BOKeX8K
-pZYGfj7CfCNlFDm2Q/+XH27ltGW4oVvaBXafuY+MEhjazrY5FyiQ2LYsUVc0RBYS
-xLfAnGsOjcG9/+jeALmrMPvuJtwB/UM/NzeZWUAzCzC811e/UhreYlFxb/Oh1c8c
-CKc4+5r2PX7/akbDnVkAUlEnJxtfIs2ub4bp1C2xbUTdfJerFuTJJfvk83FTcTIL
-y6PSwjnwwB6qLS+Y0M1rzW0UI+Gd8n5YfSQbiSB4Ar+sR65RU5OeY3rHJiTgJlQ8
-stQMNFBaJaBKxIrGXjGv3j192t3n7PPENhErWJzeuPLga5TQTFtUhilmhkH4c3Nb
-Ft/U1euyPvQvlT3wWrb/fhhdQOXDgRc/ya3S8jrGv6Ubm6gbY+plRphS+n5T+CHb
-PaCiKDC84Lo1IY3Fe11zEEUm1KSpjA7B200Qv5wc3qF8nkg1GAsvayaaLyvFx3I4
-qNaunwV2RGmpjUqLgwARTgRprhXcG9oHQT0PbDY6Dw312olq6QH7gMV9umhIPklJ
-s+AI6p+n8S8TasOnLC/y2/aVLD24vlgvJMPhF34HucA1QppAYuQ=
-=hhQD
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZns1gACgkQ5Vfn9vbt
+T6oQTA//XH0hIQ5JJISOOch/Ir89s2qp5S2ohOxc+gTRYUP5n0m7vzyk4MdOMnM7
+dseCIlX5Ls5RsXm3FLcwQ0OvMtJk2KIlzgfpGmjMsPFY/+ZcpUtRBQkWz9XMzLTg
+DzB+NO+xuzANBQ33heFQbmz/eyIMJRcQ1m/fuwKCpgWKVDd1l0dO3VIO9B8Mb2Fz
+trKcgHcugb5nUGQHGebkz8UMvN2n5XwmRyBd9yKlYj4pN6vRDvK2CW2n5EaJZPV/
+CQz87OmSjrwcr/AfQuD8sZeeFaUbYinlv3Wmt1d3s5beroFQ3KusGXae+fi7J9fA
+fBfyzTBbow/BkrOdXIIjwM7aUGscr4RnrgiHTakHFF2LTgiD8VS32+4NsN+Yv2d0
+2uenpcJR3Hkh4u682BPk0lkPUVz2uZMqcWh30ZrHM+s4RrGhhERTd2tDoywy1rFx
+ed5y62U1TYsuWwQlWtfeRPHWHat4wCEjQp0l4QXflC1Ac7fwdzbDM3bMtq4ZXX6q
+ZTQ0WlytPkKTFoPGXf03cMQ9s6MQ5XoN2PThKEXHuwFrLT3ajFJRaTF0cjk8LsNI
+Wyd7h0w3mGUStLI+oBxfgZgsLVWu1YG1PVTJGukM6vPNo9j8e1ArPwVI508etBKc
+NISMj0xy09/hmXtyfnaHwZj4B95P+NNBkkFxqjbQTfuwew6jCMA=
+=YMEc
 -----END PGP SIGNATURE-----

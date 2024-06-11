@@ -6,7 +6,7 @@ Label: OpenBosniana-LIB Repository
 Suite: 2024
 Codename: OpenBosniana-LIB-backports
 Version: 2024
-Date: Sun, 09 Jun 2024 16:48:15 UTC
+Date: Tue, 11 Jun 2024 02:15:51 UTC
 Architectures: i386 amd64 arm64
 Components: main contrib non-free non-free-firmware udeb
 Description: Last updated: Wed, 27 Mar 2024 03:30:11 +0100 Denni Msl
@@ -168,17 +168,17 @@ SHA256:
  b97c0504f97433e4f841d8732866ee0bd3efab704ecfb021760370b7f5198590 203 udeb/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZl3M8ACgkQ5Vfn9vbt
-T6qrCg/+JNIg7rxzRSAFo6zvkemnpF53L6XH7L+xgqUIftlKdGTi1idFpgxhV7E+
-ABPATNK2GTho1uNlxZvhR+I95GwWyNyGO41JEva6G5zeY6RUOYTxqerItlXE6iST
-TRcVpbA9uTuu7WWZ5iHXgIie8/fTqJdknEOECLlTKkcUCv/p7HO/e9vaOxFXJrf+
-1mo0M2wIBo65J376VKaSemw0YjKVAhTl0nYUm4ZetF4dOMlPIBToUFUWtmohyjd8
-dqQw2izyb0jcYkr10p3aIjT0A9vn4NgbS0hh5laboV6jyXQvLI1bZgMZsrGW+kg4
-rfqpZ4D4NIAwUtucVyGidf+b378Zdeu5RExdJkybwPUSREjR8O2lFVkmtqQLZHmo
-VX6HkmWOH0eir1g/izmTFK/WQWtltNAlUF6wMroiBrw/gWjkHxpKZtq7lbtPJlM3
-CfDaobF3qMsmE8YMH8z3Z2hGUo2HFdzpcu+ZdCqIx8mhfr2NxG8M1U6TfFPhKj7i
-wriLGiFNDDv29qKQuOVpA7mApt59awgc4yYIIqZyfLb0sSUsI29wnoTn5djKd4pC
-An0K8HshgyFip9KhpGgcR1uOy1EH+PU0qihkYPWcwesbdZaQN9zVCOeBctR2Slh2
-XZA06jpIihRAAzgwe+6P/dd0LsDpcNUxlG645MxlSLUyviKqvlk=
-=QviU
+iQIzBAEBCgAdFiEE4oyo8MJtqkFzJEJ95Vfn9vbtT6oFAmZns1gACgkQ5Vfn9vbt
+T6pd0BAAtzwBSdKSs/pENxCQFJG5jyDrnBEUUPzL51YVXF7WTpGP/4v3Ck16GNa7
+X7RLbj3Xvf08GkAHA8bA3gO0m2eWQNjh9V8KDsn1fYwGYuNaO23QPUG+1/GsW7CM
+CWhIiMKZK2KH5ouHWs/OhV34ntC/xP/BDnNGe4Jn+sU2liaAxxJUJcGaSAEof0aF
+Mrti6S131YntsG52Iy9RXIfH4jk77rnmtYynKjNCx3ayubh8pqsM5ix98VBPFAn4
+Xo75XYyM7USkNJpS+pyQ7xCVmAl0uIFVMBlcSDUeOv4TUMQEtQ3g/mm8OvOlxG8u
+eBt9M9EwKl4vT3fmSteoq4jUgktN/lpLXuj2hdmwDVB/rD65kLTLT7MUh8JShZ4e
+Mv94g3hpe5cRQBAwQgz4F3/CiRLOifV7EfuN/vxS42nf2Q4Q3L5saFJVSBPKJeuq
+r5VeIu3ZSm1QDqeb3J2uvyRZ351fh3hzMxCNyH+DS+FXes0htmhYCQTqo2vxZzpx
+MazLxsgS3RJbluwJGBxOXc16FcCYoZjG7Vbdtu9o1JMJT9mNDwF2/ip5ifBMABWe
+KIZfYnbxDmYU4l8Hdbs5FATEqp0nlvhNkWCDy9z0nQNVTz//ZcYFIrhMy5y0yS5p
+X/Yk4UTFqYnVL61xy8I6LHDWfHI3m1uWX234k/25/0KboZNh05I=
+=/Or6
 -----END PGP SIGNATURE-----
